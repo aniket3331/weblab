@@ -1,0 +1,22 @@
+programs 1-5
+	- open the .html /  .xml file directly with browser.
+
+program 6
+	-start apache and mysql servers in Xampp
+	-create a database named "test"
+	-create a table  books as books(title, auhtor, publisher) in test
+	-paste the html,php files in c:>Xampp>htdocs
+	-open the html filess with browser
+
+program 8
+	-start apache and mysql servers in Xampp
+	-create a table  stud as stud(fname, lname, age , address, pincode) in test
+	-paste the html,php files in c:>Xampp>htdocs
+	-open the html filess with browser
+
+program 7,9,10
+	-start apache and mysql servers in Xampp
+	-paste the html,php files in c:>Xampp>htdocs ( pgm7 along with web.txt)
+	-open the html filess with browser
+
+blabla
